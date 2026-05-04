@@ -1,4 +1,6 @@
+"""substraction function"""
 def sub(a,b):
+    """return the result"""
     return a - b
 
 if __name__ == "__main__":
